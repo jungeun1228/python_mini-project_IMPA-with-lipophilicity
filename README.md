@@ -68,7 +68,7 @@ In Figure 2, both Experiment 2 and 3 with FT showed improved Fréchet Inception 
   Therefore, training on a wider variety of compounds could improve the predictive value of log*D*<sub>lipw</sub> (pH=7.4) for certain groups, especially for highly lipophilic compounds that primarily act on membranes. Still, log*D*<sub>lipw</sub> (pH=7.4) may be too limited to cover all MOAs and resulting phenotypic responses.
 
 4.	Using 3D-based fingerprints (instead of 2D) may better capture diverse molecular features and improve predictions.
-5.	Alternative models to IMPA (style transfer and GAN-based) could be explored—e.g., flow matching models (direction of the ESPOD project).
+5.	Alternative models to IMPA (style transfer and GAN-based) could be explored—e.g., flow matching models.
 <br><br>
 ________________________________________
 *I used ChatGPT (OpenAI, 2025) to understand limitations of the IMPA model and how flow matching-based generative models can address them.
